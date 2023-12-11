@@ -6,10 +6,10 @@
 
 ## Things needed to work
 
-A Discord Authentication Token
-A Twilio Account SID and Authentication Token ( Trial accounts work )
-A weatherapi.com API Key
-An api-ninja API Key
+* A Discord Authentication Token
+* A Twilio Account SID and Authentication Token ( Trial accounts work )
+* A weatherapi.com API Key
+* An api-ninja API Key
 
 ## Sources that may help you set this up while my lazyness to make a proper readme goes away
 
